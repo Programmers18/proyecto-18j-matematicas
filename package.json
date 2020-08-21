@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Programmers18/proyecto-1a-matematicas.git"
+    "url": "git+https://github.com/Programmers18/proyecto-18j-matematicas.git"
   },
   "keywords": [
     "math",
@@ -21,7 +21,7 @@
   "author": "Jonny D. Lezcano <jonnyda1811@gmail.com>",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/Programmers18/proyecto-1a-matematicas/issues"
+    "url": "https://github.com/Programmers18/proyecto-18j-matematicas/issues"
   },
-  "homepage": "https://github.com/Programmers18/proyecto-1a-matematicas#readme"
+  "homepage": "https://github.com/Programmers18/proyecto-18j-matematicas#readme"
 }
