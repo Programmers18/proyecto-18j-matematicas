@@ -1,6 +1,6 @@
 {
   "name": "proyecto-18j-matematicas",
-  "version": "1.0.2",
+  "version": "1.1.0",
   "description": "Proyecto de Matematicas sencillo para aprender nodejs y subirla a NPM",
   "main": "index.js",
   "scripts": {
